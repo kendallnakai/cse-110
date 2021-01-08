@@ -3,7 +3,7 @@
 
 `Hello World! I'm Kendall`
 
-[](me.jpg)
+[Self-portrait](https://kendallnakai.com/img/me.jpg)
 
 ##### My motto is:
 > Design so others can blossom 
