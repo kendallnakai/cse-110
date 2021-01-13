@@ -1,5 +1,5 @@
 # Kendall Nakai
-## Designer +  Developer
+## Designer
 
 `Hello World! I'm Kendall`
 
